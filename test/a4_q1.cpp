@@ -5,18 +5,6 @@
 //  Created by Laura Persichini on 2020-11-03.
 //  Copyright © 2020 Laura Persichini. All rights reserved.
 /*
-Student Name #1: Laura Persichini
-ID#: 20894127
-Student Name #2: Chintansingh Gurucharansingh Chhabda
-ID: 20872484
- 
- SYDE 121 Assignment #4
- File Name: a4_q1.cpp
- 
- We hereby declare that this code, submitted for credit for the course
- SYDE121, is a product of our own efforts. This coded solution has
- not been plagiarized from other sources and has not been knowingly
- plagiarized by others.
 
  Project: 4x4 tic-tac-toe simulation
  Purpose:  Allow two usersto play 4x4 Tic-Tac-Toe..
